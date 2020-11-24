@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W2PD17435
   title: དམངས་ཁྲིམས་བསླབ་དེབ།
-  volume: ''
+  volume:
+    048347562fb246f6870b9a08e48fcb8e:
+      image_group_id: I4PD3053
+      title: Volume 1 of dmangs khrims bslab deb/
+      volume_number: 1
+      total_pages: 722
   author: ''
+ebook_metadata:
+  title: དམངས་ཁྲིམས་བསླབ་དེབ།
+  author: ''
+  sku: P000429
+  cover: cover.jpg
+  layers:
+  - pagination
